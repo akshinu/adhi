@@ -1,3 +1,4 @@
 export enum EnumRoles {
-  User = "user",
+  AkshinuGmailCom = "shinu",
+  Admin = "admin",
 }
