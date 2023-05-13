@@ -1,6 +1,10 @@
 export const ROLES = [
   {
-    name: "user",
-    displayName: "User",
+    name: "shinu",
+    displayName: "akshinu@gmail.com",
+  },
+  {
+    name: "admin",
+    displayName: "admin",
   },
 ];
